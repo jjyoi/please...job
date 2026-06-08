@@ -8,3 +8,7 @@ please...job! pulls real job postings for **Data Analyst**, **Data Scientist**, 
 
 **Key insights:**
 ...
+
+
+## Requirements
+Make sure PostgeSQL is installed on your device. 
